@@ -1,0 +1,4 @@
+{
+  "name": "REDEVCYBER - BB84 QKD Simulator",
+  "description": "A web-based simulator for the BB84 Quantum Key Distribution protocol, demonstrating qubit preparation, measurement, basis sifting, QBER detection, error correction, and privacy amplification."
+}
